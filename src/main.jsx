@@ -5,7 +5,8 @@ import './index.css'
 import ReactGA from "react-ga4";
 
 
-ReactGA.initialize("G-KN9ZYCC0X2");
+ReactGA.initialize("G-63CPK0BKQB");
+
 ReactGA.send({
   hitType: "pageview",
   page: window.location.pathname,
